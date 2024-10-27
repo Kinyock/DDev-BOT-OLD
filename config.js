@@ -15,11 +15,11 @@ global.autoRecord = false; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["94703892615","94767880946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ["94703892615"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ["94703892615"];
-global.OwnerName = "DARK DEVIL";
-global.BotName = "DDev";
+global.Owner = ["237673804138"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ["237673804138"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ["237673804138"];
+global.OwnerName = "killer Ghost";
+global.BotName = "☠️💀🚬";
 global.packname = "🌹⃝⃘̉̉̉̉̉̉𝙳𝙳𝙴𝚅 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂";  //Do not change.
 global.author = "𝙱𝚈 𝙳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻۝⃟̥̩̩̩̥̩";   //Do not change.
 global.BotSourceCode = "https://github.com/DARK-DEVIL-BOTZ/DDev-BOT";  //Do not change.
@@ -36,8 +36,8 @@ global.openAiAPI = "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";
 
 //
 global.location = "Kaluthara City, Sri Lanka";
-global.reactmoji = "❤️";
-global.themeemoji = "🤖";
+global.reactmoji = "☠️";
+global.themeemoji = "🚬";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
 global.websitex = "https://github.com/malindunimsara";
 global.lolhuman = "DARK DEVIL";
